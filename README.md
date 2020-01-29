@@ -9,4 +9,4 @@ Design and Simulate TicTacToe game. Rules are simple:
 
 3. Grid is 3x3 initially but can be extended and so can the number of players in the subsequent versions.
 
-![ScreenShot] Screenshot 2020-01-29 at 12.01.53 PM.png
+![Screenshot]Screenshot 2020-01-29 at 12.01.53 PM.png
